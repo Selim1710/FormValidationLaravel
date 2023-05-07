@@ -1,6 +1,5 @@
 <h1>Topic Covered:</h1> <br/>
-    ◉ <span>laravel api CRUD<span/> <br/>
-    ◉ <span>Searching in api<span/> <br/><br/>
+    ◉ <span>white space validation<span/> <br/>
+    ◉ <span>alphp rules<span/> <br/><br/>
 
-
-![Capture](https://user-images.githubusercontent.com/93088169/224616877-8a0d4aee-60e0-444b-a858-d42b32ec268b.JPG)
+![Capture](https://user-images.githubusercontent.com/93088169/236671018-b60637ce-b327-44bc-8a12-ae680decf283.JPG)
